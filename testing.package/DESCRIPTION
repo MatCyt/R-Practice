@@ -1,8 +1,8 @@
 Package: testing.package
-Title: What the Package Does (one line, title case)
-Version: 0.0.0.9000
+Title: Testing how to build package
+Version: 0.0.1
 Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+Description: It is testing how to build package in R using more up to date methods (devtools, use that etc)
 Depends: R (>= 3.5.1)
 License: What license is it under?
 Encoding: UTF-8
