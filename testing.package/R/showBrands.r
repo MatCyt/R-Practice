@@ -8,11 +8,14 @@
 #' @importFrom dplyr select
 #'
 #' @return dataframe with list of uniqe brands based on car name
-#' 
+#'
 #' @export showBrands
 
 showBrands = function(df) {
-  brands = 
+
+  stopifnot(is.data.frame(df))
+
+  brands =
     df %>%
     mutate(carnames = row.names(df),
            brand = sub("\\ .*", "", carnames)) %>%
