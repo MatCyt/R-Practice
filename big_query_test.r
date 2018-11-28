@@ -7,10 +7,10 @@ library(bigrquery)
 ### Connect to table
 
 # Select project
-project = "trim-tide-223909"
+project = "" # put project name here
 
 # select query
-sql = "SELECT * FROM campaigData.mtcars"
+sql = "SELECT * FROM " # put set.table name here
 
 # download dataset and authenticate the account
 df_query = query_exec(sql, project = project, useLegacySql = FALSE)
