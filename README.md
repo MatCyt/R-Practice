@@ -7,6 +7,11 @@ Tidyverse
 Small useful overview:  
 https://www.analyticsvidhya.com/blog/2019/05/beginner-guide-tidyverse-most-powerful-collection-r-packages-data-science/
   
+### dplyr and data manipulation  
+overview and general:  
+https://r4ds.had.co.nz/transform.html#introduction-2
+https://rstudio-education.github.io/tidyverse-cookbook/transform-tables.html
+  
 ### readr - read and write
 Cheet Sheet:  
 https://rawgit.com/rstudio/cheatsheets/master/data-import.pdf
