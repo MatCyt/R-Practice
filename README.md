@@ -12,9 +12,10 @@ overview and general:
 https://r4ds.had.co.nz/transform.html#introduction-2
 https://rstudio-education.github.io/tidyverse-cookbook/transform-tables.html  
   
-scoped verbs:
+scoped verbs:  
 https://dcl-2019-04.github.io/curriculum/manip-scoped.html  
 https://dcl-2019-04.github.io/curriculum/manip-scoped-2.html  
+https://www.r-bloggers.com/using-scoped-dplyr-verbs/  
   
 missing values:  
 https://r4ds.had.co.nz/transform.html#missing-values-1  
