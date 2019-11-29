@@ -109,3 +109,8 @@ data %>%
 ## join
 df1 %>%
   left_join(df2, by = 'column_name')
+
+
+## missing values - remove by filter
+data_nomissing = data %>% 
+  filter(!is.na(column1), !is.na(column2))
