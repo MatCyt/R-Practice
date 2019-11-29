@@ -10,7 +10,14 @@ https://www.analyticsvidhya.com/blog/2019/05/beginner-guide-tidyverse-most-power
 ### dplyr and data manipulation  
 overview and general:  
 https://r4ds.had.co.nz/transform.html#introduction-2
-https://rstudio-education.github.io/tidyverse-cookbook/transform-tables.html
+https://rstudio-education.github.io/tidyverse-cookbook/transform-tables.html  
+  
+scoped verbs:
+https://dcl-2019-04.github.io/curriculum/manip-scoped.html  
+https://dcl-2019-04.github.io/curriculum/manip-scoped-2.html  
+  
+missing values:  
+https://r4ds.had.co.nz/transform.html#missing-values-1  
   
 ### readr - read and write
 Cheet Sheet:  
