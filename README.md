@@ -7,6 +7,19 @@ Tidyverse
 Small useful overview:  
 https://www.analyticsvidhya.com/blog/2019/05/beginner-guide-tidyverse-most-powerful-collection-r-packages-data-science/
   
+### dplyr and data manipulation  
+overview and general:  
+https://r4ds.had.co.nz/transform.html#introduction-2
+https://rstudio-education.github.io/tidyverse-cookbook/transform-tables.html  
+  
+scoped verbs:  
+https://dcl-2019-04.github.io/curriculum/manip-scoped.html  
+https://dcl-2019-04.github.io/curriculum/manip-scoped-2.html  
+https://www.r-bloggers.com/using-scoped-dplyr-verbs/  
+  
+missing values:  
+https://r4ds.had.co.nz/transform.html#missing-values-1  
+  
 ### readr - read and write
 Cheet Sheet:  
 https://rawgit.com/rstudio/cheatsheets/master/data-import.pdf
