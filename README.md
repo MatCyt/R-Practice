@@ -39,7 +39,10 @@ https://r4ds.had.co.nz/strings.html#string-basics
 ### purrr  
 Great intro article:  
 http://www.rebeccabarter.com/blog/2019-08-19_purrr/  
-
+  
+Cheat Sheet:  
+https://github.com/rstudio/cheatsheets/blob/master/purrr.pdf  
+  
 Materials:  
 https://dcl-prog.stanford.edu/purrr-basics.html
 https://dcl-prog.stanford.edu/purrr-mutate.html
