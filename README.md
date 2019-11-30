@@ -30,6 +30,10 @@ https://r4ds.had.co.nz/data-import.html
 https://bookdown.org/rdpeng/rprogdatascience/using-the-readr-package.html  
     
 ### lubridate  
+Cheat Sheet:  
+https://rawgit.com/rstudio/cheatsheets/master/lubridate.pdf
+  
+Materials:  
 https://r4ds.had.co.nz/dates-and-times.html#introduction-10  
 https://rpubs.com/mbeckett/lubridatetutorial  
   
