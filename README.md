@@ -37,7 +37,11 @@ Materials:
 https://r4ds.had.co.nz/strings.html#string-basics
 
 ### purrr  
+Great intro article:  
+http://www.rebeccabarter.com/blog/2019-08-19_purrr/  
+
 Materials:  
+
   
 ### lubridate  
 Cheat Sheet:  
