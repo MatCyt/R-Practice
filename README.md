@@ -28,7 +28,17 @@ Materials:
 https://readr.tidyverse.org/  
 https://r4ds.had.co.nz/data-import.html  
 https://bookdown.org/rdpeng/rprogdatascience/using-the-readr-package.html  
-    
+      
+### stringr  
+Cheat Sheet:  
+https://github.com/rstudio/cheatsheets/blob/master/strings.pdf  
+  
+Materials:  
+https://r4ds.had.co.nz/strings.html#string-basics
+
+### purrr  
+Materials:  
+  
 ### lubridate  
 Cheat Sheet:  
 https://rawgit.com/rstudio/cheatsheets/master/lubridate.pdf
