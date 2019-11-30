@@ -41,7 +41,8 @@ Great intro article:
 http://www.rebeccabarter.com/blog/2019-08-19_purrr/  
 
 Materials:  
-
+https://dcl-prog.stanford.edu/purrr-basics.html
+https://dcl-prog.stanford.edu/purrr-mutate.html
   
 ### lubridate  
 Cheat Sheet:  
