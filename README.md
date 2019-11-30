@@ -20,7 +20,7 @@ https://www.r-bloggers.com/using-scoped-dplyr-verbs/
 missing values:  
 https://r4ds.had.co.nz/transform.html#missing-values-1  
   
-### readr - read and write
+### readr - read and write  
 Cheet Sheet:  
 https://rawgit.com/rstudio/cheatsheets/master/data-import.pdf
   
@@ -28,9 +28,26 @@ Materials:
 https://readr.tidyverse.org/  
 https://r4ds.had.co.nz/data-import.html  
 https://bookdown.org/rdpeng/rprogdatascience/using-the-readr-package.html  
+      
+### stringr  
+Cheat Sheet:  
+https://github.com/rstudio/cheatsheets/blob/master/strings.pdf  
+  
+Materials:  
+https://r4ds.had.co.nz/strings.html#string-basics
 
-### tidyr - tidy data
-
+### purrr  
+Materials:  
+  
+### lubridate  
+Cheat Sheet:  
+https://rawgit.com/rstudio/cheatsheets/master/lubridate.pdf
+  
+Materials:  
+https://r4ds.had.co.nz/dates-and-times.html#introduction-10  
+https://rpubs.com/mbeckett/lubridatetutorial  
+  
+### tidyr - tidy data  
 Great walkthrough in detail:  
 https://r4ds.had.co.nz/tidy-data.html#separating-and-uniting
   
